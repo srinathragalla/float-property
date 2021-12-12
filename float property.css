@@ -1,0 +1,15 @@
+.div{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgba(209, 230, 95, 0.342);
+}
+.img{
+    height: 800px;
+    width: 1000px;
+    float: right;
+    margin: 15px;
+}
+.para{
+    color: blue;
+    padding: 10px;
+}
